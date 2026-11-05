@@ -1,0 +1,53 @@
+name: Release
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Version prüfen
+        shell: bash
+        run: |
+          test "$GITHUB_REF_NAME" = "v$(cat VERSION)"
+      - name: Voraussetzungen
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends python3-gi python3-pil gir1.2-gtk-4.0 sane-utils desktop-file-utils xvfb xauth
+      - name: Programm und Pakete prüfen
+        run: |
+          xvfb-run -a /usr/bin/python3 -B python/test_docscan.py
+          ./erstellesprachen.sh
+          xvfb-run -a /usr/bin/python3 -B python/test_languages.py
+          ./erstelledeb.sh
+          ./erstellezip.sh
+          ./erstellegithub.sh
+          xvfb-run -a /usr/bin/python3 -B python/test_packaging.py
+          cd dist
+          sha256sum -c *.sha256
+      - name: Release vorbereiten und Anhänge prüfen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          tag="$GITHUB_REF_NAME"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo 'Release existiert bereits; vorhandene Anhänge werden nicht überschrieben.'
+            exit 1
+          fi
+          gh release create "$tag" --verify-tag --draft --title "Docscan $(cat VERSION)" --notes-file RELEASE_NOTES.md
+          gh release upload "$tag" dist/*
+          mkdir -p work/release-download
+          gh release download "$tag" --dir work/release-download
+          cd work/release-download
+          sha256sum -c *.sha256
+          for file in *; do cmp "$file" "../../dist/$file"; done
+          cd ../..
+          gh release edit "$tag" --draft=false

@@ -1,0 +1,107 @@
+key	fr	es	pt	tr	ru	ar	hi	zh
+File	Fichier	Archivo	Arquivo	Dosya	Файл	ملف	फ़ाइल	文件
+Scanner	Scanner	Escáner	Scanner	Tarayıcı	Сканер	الماسح الضوئي	स्कैनर	扫描仪
+Page	Page	Página	Página	Sayfa	Страница	صفحة	पृष्ठ	页
+pages	pages	páginas	páginas	sayfa	страниц	صفحات	पृष्ठ	页
+Help	Aide	Ayuda	Ajuda	Yardım	Справка	مساعدة	सहायता	帮助
+New document	Nouveau document	Nuevo documento	Novo documento	Yeni belge	Новый документ	مستند جديد	नया दस्तावेज़	新建文档
+Import image / TIFF	Importer une image / TIFF	Importar imagen / TIFF	Importar imagem / TIFF	Görüntü / TIFF içe aktar	Импорт изображения / TIFF	استيراد صورة / TIFF	छवि / TIFF आयात करें	导入图像 / TIFF
+Save PDF	Enregistrer en PDF	Guardar PDF	Guardar PDF	PDF kaydet	Сохранить PDF	حفظ PDF	PDF सहेजें	保存 PDF
+Save selected page as PNG	Enregistrer la page sélectionnée en PNG	Guardar página seleccionada como PNG	Guardar página selecionada como PNG	Seçili sayfayı PNG olarak kaydet	Сохранить выбранную страницу как PNG	حفظ الصفحة المحددة بصيغة PNG	चयनित पृष्ठ PNG में सहेजें	将所选页保存为 PNG
+Save selected page as JPEG	Enregistrer la page sélectionnée en JPEG	Guardar página seleccionada como JPEG	Guardar página selecionada como JPEG	Seçili sayfayı JPEG olarak kaydet	Сохранить выбранную страницу как JPEG	حفظ الصفحة المحددة بصيغة JPEG	चयनित पृष्ठ JPEG में सहेजें	将所选页保存为 JPEG
+Settings	Paramètres	Ajustes	Definições	Ayarlar	Настройки	الإعدادات	सेटिंग	设置
+Quit	Quitter	Salir	Sair	Çıkış	Выход	خروج	बंद करें	退出
+Find scanners	Rechercher des scanners	Buscar escáneres	Procurar scanners	Tarayıcıları bul	Найти сканеры	البحث عن ماسحات ضوئية	स्कैनर खोजें	查找扫描仪
+Scan	Numériser	Escanear	Digitalizar	Tara	Сканировать	مسح ضوئي	स्कैन करें	扫描
+Cancel	Annuler	Cancelar	Cancelar	İptal	Отмена	إلغاء	रद्द करें	取消
+Rotate left	Tourner à gauche	Girar a la izquierda	Rodar para a esquerda	Sola döndür	Повернуть влево	تدوير لليسار	बाएँ घुमाएँ	向左旋转
+Rotate right	Tourner à droite	Girar a la derecha	Rodar para a direita	Sağa döndür	Повернуть вправо	تدوير لليمين	दाएँ घुमाएँ	向右旋转
+Crop	Rogner	Recortar	Recortar	Kırp	Обрезать	اقتصاص	काटें	裁剪
+Move forward	Déplacer vers le début	Mover hacia el principio	Mover para o início	Öne taşı	Переместить вперёд	نقل للأمام	आगे ले जाएँ	向前移动
+Move back	Déplacer vers la fin	Mover hacia el final	Mover para o fim	Arkaya taşı	Переместить назад	نقل للخلف	पीछे ले जाएँ	向后移动
+Delete page	Supprimer la page	Eliminar página	Eliminar página	Sayfayı sil	Удалить страницу	حذف الصفحة	पृष्ठ हटाएँ	删除页
+Log	Journal	Registro	Registo	Günlük	Журнал	السجل	लॉग	日志
+About	À propos	Acerca de	Sobre	Hakkında	О программе	حول البرنامج	परिचय	关于
+Scan settings	Paramètres de numérisation	Ajustes de escaneo	Definições de digitalização	Tarama ayarları	Настройки сканирования	إعدادات المسح الضوئي	स्कैन सेटिंग	扫描设置
+No scanner selected	Aucun scanner sélectionné	Ningún escáner seleccionado	Nenhum scanner selecionado	Tarayıcı seçilmedi	Сканер не выбран	لم يتم تحديد ماسح ضوئي	कोई स्कैनर चयनित नहीं	未选择扫描仪
+Device default	Valeur par défaut du périphérique	Valor predeterminado del dispositivo	Predefinição do dispositivo	Aygıt varsayılanı	По умолчанию для устройства	الإعداد الافتراضي للجهاز	डिवाइस का डिफ़ॉल्ट	设备默认值
+Colour mode	Mode couleur	Modo de color	Modo de cor	Renk modu	Цветовой режим	وضع الألوان	रंग मोड	色彩模式
+Paper source	Source papier	Origen del papel	Origem do papel	Kâğıt kaynağı	Источник бумаги	مصدر الورق	काग़ज़ स्रोत	纸张来源
+Resolution (dpi)	Résolution (ppp)	Resolución (ppp)	Resolução (dpi)	Çözünürlük (dpi)	Разрешение (dpi)	الدقة (نقطة/بوصة)	रिज़ॉल्यूशन (dpi)	分辨率 (dpi)
+Pages to scan (1 for flatbed)	Pages à numériser (1 sur la vitre)	Páginas a escanear (1 en cama plana)	Páginas a digitalizar (1 na mesa)	Taranacak sayfa (düz yatakta 1)	Число страниц (1 для планшетного сканера)	عدد الصفحات للمسح (1 للماسح المسطح)	स्कैन करने वाले पृष्ठ (फ़्लैटबेड के लिए 1)	扫描页数（平板为 1）
+Only device-reported options are sent.	Seules les options signalées par le périphérique sont transmises.	Solo se envían las opciones indicadas por el dispositivo.	São enviadas apenas as opções indicadas pelo dispositivo.	Yalnızca aygıtın bildirdiği seçenekler gönderilir.	Передаются только параметры, сообщённые устройством.	تُرسل فقط الخيارات التي يعلن عنها الجهاز.	केवल डिवाइस द्वारा बताई गई सेटिंग भेजी जाती हैं।	仅发送设备报告的选项。
+Ready	Prêt	Listo	Pronto	Hazır	Готово	جاهز	तैयार	就绪
+Operation failed	Échec de l’opération	Error en la operación	A operação falhou	İşlem başarısız	Ошибка операции	فشلت العملية	कार्रवाई विफल	操作失败
+Close	Fermer	Cerrar	Fechar	Kapat	Закрыть	إغلاق	बंद करें	关闭
+Finding scanners	Recherche de scanners	Buscando escáneres	A procurar scanners	Tarayıcılar aranıyor	Поиск сканеров	جارٍ البحث عن ماسحات ضوئية	स्कैनर खोजे जा रहे हैं	正在查找扫描仪
+Reading scanner options	Lecture des options du scanner	Leyendo opciones del escáner	A ler opções do scanner	Tarayıcı seçenekleri okunuyor	Чтение параметров сканера	جارٍ قراءة خيارات الماسح	स्कैनर के विकल्प पढ़े जा रहे हैं	正在读取扫描仪选项
+Scanner ready	Scanner prêt	Escáner listo	Scanner pronto	Tarayıcı hazır	Сканер готов	الماسح الضوئي جاهز	स्कैनर तैयार है	扫描仪已就绪
+Scanning	Numérisation en cours	Escaneando	A digitalizar	Taranıyor	Сканирование	جارٍ المسح الضوئي	स्कैन हो रहा है	正在扫描
+Scan cancelled; complete pages kept.	Numérisation annulée ; les pages complètes sont conservées.	Escaneo cancelado; se conservaron las páginas completas.	Digitalização cancelada; páginas completas preservadas.	Tarama iptal edildi; tamamlanan sayfalar korundu.	Сканирование отменено; полные страницы сохранены.	أُلغي المسح؛ تم الاحتفاظ بالصفحات المكتملة.	स्कैन रद्द हुआ; पूरे पृष्ठ रखे गए हैं।	扫描已取消；已保留完整页。
+Scan completed.	Numérisation terminée.	Escaneo completado.	Digitalização concluída.	Tarama tamamlandı.	Сканирование завершено.	اكتمل المسح الضوئي.	स्कैन पूरा हुआ।	扫描完成。
+Saving recovery copy	Enregistrement de la copie de récupération	Guardando copia de recuperación	A guardar cópia de recuperação	Kurtarma kopyası kaydediliyor	Сохранение копии для восстановления	جارٍ حفظ نسخة الاستعادة	पुनर्प्राप्ति प्रति सहेजी जा रही है	正在保存恢复副本
+Confirm	Confirmer	Confirmar	Confirmar	Onayla	Подтверждение	تأكيد	पुष्टि करें	确认
+Continue	Continuer	Continuar	Continuar	Devam et	Продолжить	متابعة	जारी रखें	继续
+Clear the current document and its recovery copy?	Effacer le document actuel et sa copie de récupération ?	¿Borrar el documento actual y su copia de recuperación?	Limpar o documento atual e a sua cópia de recuperação?	Geçerli belge ve kurtarma kopyası temizlensin mi?	Очистить текущий документ и его копию для восстановления?	هل تريد مسح المستند الحالي ونسخة الاستعادة؟	वर्तमान दस्तावेज़ और उसकी पुनर्प्राप्ति प्रति मिटाएँ?	清空当前文档及其恢复副本？
+Importing pages	Importation des pages	Importando páginas	A importar páginas	Sayfalar içe aktarılıyor	Импорт страниц	جارٍ استيراد الصفحات	पृष्ठ आयात हो रहे हैं	正在导入页
+Images	Images	Imágenes	Imagens	Görüntüler	Изображения	صور	छवियाँ	图像
+Open	Ouvrir	Abrir	Abrir	Aç	Открыть	فتح	खोलें	打开
+The file already exists. Choose a new name.	Le fichier existe déjà. Choisissez un autre nom.	El archivo ya existe. Elija otro nombre.	O ficheiro já existe. Escolha outro nome.	Dosya zaten var. Yeni bir ad seçin.	Файл уже существует. Выберите другое имя.	الملف موجود بالفعل. اختر اسمًا جديدًا.	फ़ाइल पहले से मौजूद है। नया नाम चुनें।	文件已存在。请选择其他名称。
+Exporting document	Exportation du document	Exportando documento	A exportar documento	Belge dışa aktarılıyor	Экспорт документа	جارٍ تصدير المستند	दस्तावेज़ निर्यात हो रहा है	正在导出文档
+Saved: 	Enregistré : 	Guardado: 	Guardado: 	Kaydedildi: 	Сохранено: 	تم الحفظ: 	सहेजा गया: 	已保存： 
+Save	Enregistrer	Guardar	Guardar	Kaydet	Сохранить	حفظ	सहेजें	保存
+Left	Gauche	Izquierda	Esquerda	Sol	Слева	اليسار	बायाँ	左
+Top	Haut	Arriba	Topo	Üst	Сверху	الأعلى	ऊपर	上
+Right	Droite	Derecha	Direita	Sağ	Справа	اليمين	दायाँ	右
+Bottom	Bas	Abajo	Fundo	Alt	Снизу	الأسفل	नीचे	下
+Apply	Appliquer	Aplicar	Aplicar	Uygula	Применить	تطبيق	लागू करें	应用
+The crop area must have positive width and height.	La zone de rognage doit avoir une largeur et une hauteur positives.	El área de recorte debe tener anchura y altura positivas.	A área de recorte deve ter largura e altura positivas.	Kırpma alanının genişliği ve yüksekliği sıfırdan büyük olmalıdır.	Ширина и высота области обрезки должны быть больше нуля.	يجب أن يكون عرض منطقة الاقتصاص وارتفاعها أكبر من الصفر.	काटने के क्षेत्र की चौड़ाई और ऊँचाई शून्य से अधिक होनी चाहिए।	裁剪区域的宽度和高度必须大于零。
+Language	Langue	Idioma	Idioma	Dil	Язык	اللغة	भाषा	语言
+Recovery copies and preferences are stored inside the project .config folder.	Les copies de récupération et les paramètres sont conservés dans le dossier de configuration de Docscan.	Las copias de recuperación y los ajustes se guardan en la carpeta de configuración de Docscan.	As cópias de recuperação e as definições ficam na pasta de configuração do Docscan.	Kurtarma kopyaları ve ayarlar Docscan yapılandırma klasöründe saklanır.	Копии для восстановления и настройки хранятся в папке настроек Docscan.	تُحفظ نسخ الاستعادة والإعدادات في مجلد إعدادات Docscan.	पुनर्प्राप्ति प्रतियाँ और सेटिंग Docscan के कॉन्फ़िगरेशन फ़ोल्डर में रखी जाती हैं।	恢复副本和设置保存在 Docscan 配置文件夹中。
+No update or language download source has been published yet.	Aucune source de mise à jour ou de langues n’est encore publiée.	Aún no se ha publicado una fuente de actualizaciones o idiomas.	Ainda não foi publicada uma origem de atualizações ou idiomas.	Henüz güncelleme veya dil indirme kaynağı yayımlanmadı.	Источник обновлений и языковых пакетов пока не опубликован.	لم يُنشر مصدر للتحديثات أو اللغات بعد.	अभी अपडेट या भाषा डाउनलोड स्रोत प्रकाशित नहीं हुआ है।	尚未发布更新或语言下载源。
+Document scanning with GTK4 and SANE. Inspired by GNOME Document Scanner. GPL-3.0-or-later.	Numérisation de documents avec GTK4 et SANE. Inspirée de GNOME Document Scanner. GPL-3.0-or-later.	Escaneo de documentos con GTK4 y SANE. Inspirado en GNOME Document Scanner. GPL-3.0-or-later.	Digitalização de documentos com GTK4 e SANE. Inspirado no GNOME Document Scanner. GPL-3.0-or-later.	GTK4 ve SANE ile belge tarama. GNOME Document Scanner'dan esinlenilmiştir. GPL-3.0-or-later.	Сканирование документов с GTK4 и SANE. На основе идей GNOME Document Scanner. GPL-3.0-or-later.	مسح المستندات باستخدام GTK4 وSANE. مستوحى من GNOME Document Scanner. GPL-3.0-or-later.	GTK4 और SANE से दस्तावेज़ स्कैनिंग। GNOME Document Scanner से प्रेरित। GPL-3.0-or-later.	使用 GTK4 和 SANE 扫描文档。灵感源于 GNOME 文档扫描仪。GPL-3.0-or-later。
+A task is running. Cancel it or wait before closing.	Une tâche est en cours. Annulez-la ou attendez avant de fermer.	Hay una tarea en curso. Cancélela o espere antes de cerrar.	Existe uma tarefa em curso. Cancele-a ou aguarde antes de fechar.	Bir görev çalışıyor. Kapatmadan önce iptal edin veya bekleyin.	Выполняется задача. Отмените её или дождитесь завершения.	هناك مهمة قيد التنفيذ. ألغها أو انتظر قبل الإغلاق.	एक कार्य चल रहा है। बंद करने से पहले उसे रद्द करें या प्रतीक्षा करें।	任务正在运行。请取消或等待完成后再关闭。
+No scanners found. Check power, connection and SANE driver.	Aucun scanner trouvé. Vérifiez l’alimentation, la connexion et le pilote SANE.	No se encontraron escáneres. Compruebe alimentación, conexión y controlador SANE.	Nenhum scanner encontrado. Verifique alimentação, ligação e controlador SANE.	Tarayıcı bulunamadı. Gücü, bağlantıyı ve SANE sürücüsünü denetleyin.	Сканеры не найдены. Проверьте питание, подключение и драйвер SANE.	لم يُعثر على ماسحات. تحقق من الطاقة والاتصال وبرنامج تشغيل SANE.	स्कैनर नहीं मिला। बिजली, कनेक्शन और SANE ड्राइवर जाँचें।	未找到扫描仪。请检查电源、连接和 SANE 驱动。
+Choose a supported resolution: 	Choisissez une résolution prise en charge : 	Elija una resolución compatible: 	Escolha uma resolução suportada: 	Desteklenen bir çözünürlük seçin: 	Выберите поддерживаемое разрешение: 	اختر دقة مدعومة: 	समर्थित रिज़ॉल्यूशन चुनें: 	请选择支持的分辨率： 
+SANE scanimage is missing.	Le programme SANE scanimage est absent.	Falta el programa scanimage de SANE.	O programa scanimage do SANE está em falta.	SANE scanimage bulunamadı.	Программа SANE scanimage отсутствует.	برنامج SANE scanimage غير موجود.	SANE scanimage उपलब्ध नहीं है।	缺少 SANE scanimage。
+The scanner did not respond in time.	Le scanner n’a pas répondu à temps.	El escáner no respondió a tiempo.	O scanner não respondeu a tempo.	Tarayıcı zamanında yanıt vermedi.	Сканер не ответил вовремя.	لم يستجب الماسح في الوقت المحدد.	स्कैनर ने समय पर उत्तर नहीं दिया।	扫描仪未及时响应。
+The document has no pages.	Le document ne contient aucune page.	El documento no tiene páginas.	O documento não tem páginas.	Belgede sayfa yok.	В документе нет страниц.	المستند لا يحتوي على صفحات.	दस्तावेज़ में कोई पृष्ठ नहीं है।	文档中没有页。
+Select one page for image export.	Sélectionnez une page pour l’exportation d’image.	Seleccione una página para exportar como imagen.	Selecione uma página para exportar como imagem.	Görüntü dışa aktarma için bir sayfa seçin.	Выберите одну страницу для экспорта изображения.	حدد صفحة واحدة لتصدير الصورة.	छवि निर्यात के लिए एक पृष्ठ चुनें।	请选择一页以导出图像。
+Save PNG	Enregistrer en PNG	Guardar PNG	Guardar PNG	PNG kaydet	Сохранить PNG	حفظ PNG	PNG सहेजें	保存 PNG
+Save JPEG	Enregistrer en JPEG	Guardar JPEG	Guardar JPEG	JPEG kaydet	Сохранить JPEG	حفظ JPEG	JPEG सहेजें	保存 JPEG
+Document Scanner	Numériseur de documents	Escáner de documentos	Digitalizador de documentos	Belge Tarayıcı	Сканер документов	ماسح المستندات	दस्तावेज़ स्कैनर	文档扫描仪
+Stop	Arrêter	Detener	Parar	Durdur	Остановить	إيقاف	रोकें	停止
+No document yet	Aucun document pour le moment	Todavía no hay documentos	Ainda não há documento	Henüz belge yok	Документ ещё не создан	لا يوجد مستند بعد	अभी कोई दस्तावेज़ नहीं	尚无文档
+Scan a page or import an image.	Numérisez une page ou importez une image.	Escanee una página o importe una imagen.	Digitalize uma página ou importe uma imagem.	Bir sayfa tarayın veya görüntü içe aktarın.	Отсканируйте страницу или импортируйте изображение.	امسح صفحة أو استورد صورة.	कोई पृष्ठ स्कैन करें या छवि आयात करें।	扫描一页或导入图像。
+Please wait…	Veuillez patienter…	Espere…	Aguarde…	Lütfen bekleyin…	Подождите…	يرجى الانتظار…	कृपया प्रतीक्षा करें…	请稍候…
+No scanner found	Aucun scanner trouvé	No se encontró ningún escáner	Nenhum scanner encontrado	Tarayıcı bulunamadı	Сканер не найден	لم يُعثر على ماسح ضوئي	कोई स्कैनर नहीं मिला	未找到扫描仪
+Waiting for image data…	En attente des données de l’image…	Esperando datos de imagen…	A aguardar dados da imagem…	Görüntü verileri bekleniyor…	Ожидание данных изображения…	بانتظار بيانات الصورة…	छवि डेटा की प्रतीक्षा है…	正在等待图像数据…
+Single page	Une seule page	Una sola página	Uma página	Tek sayfa	Одна страница	صفحة واحدة	एक पृष्ठ	单页
+All pages from feeder	Toutes les pages du chargeur	Todas las páginas del alimentador	Todas as páginas do alimentador	Besleyicideki tüm sayfalar	Все страницы из податчика	جميع صفحات وحدة التغذية	फ़ीडर के सभी पृष्ठ	进纸器中的所有页
+Multiple pages from flatbed	Plusieurs pages sur la vitre	Varias páginas de cama plana	Várias páginas da mesa	Düz yataktan birden çok sayfa	Несколько страниц с планшета	عدة صفحات من الماسح المسطح	फ़्लैटबेड से कई पृष्ठ	平板上的多页
+Scan type	Type de numérisation	Tipo de escaneo	Tipo de digitalização	Tarama türü	Тип сканирования	نوع المسح	स्कैन का प्रकार	扫描类型
+Original	Original	Original	Original	Özgün belge	Оригинал	الأصل	मूल दस्तावेज़	原稿
+Text	Texte	Texto	Texto	Metin	Текст	نص	पाठ	文本
+Image	Image	Imagen	Imagem	Görüntü	Изображение	صورة	छवि	图像
+Text scans create page images, without text recognition (OCR).	Les textes sont numérisés comme images de pages, sans reconnaissance de caractères (OCR).	Los textos se escanean como imágenes de página, sin reconocimiento de texto (OCR).	Os textos são digitalizados como imagens de páginas, sem reconhecimento de texto (OCR).	Metinler, metin tanıma (OCR) olmadan sayfa görüntüsü olarak taranır.	Текст сканируется как изображение страницы, без распознавания (OCR).	يُمسح النص كصورة صفحة، دون التعرف الضوئي على النص (OCR).	पाठ पृष्ठ की छवि के रूप में स्कैन होता है, बिना अक्षर पहचान (OCR) के।	文本扫描生成页面图像，不进行文字识别 (OCR)。
+Ready to scan	Prêt à numériser	Listo para escanear	Pronto para digitalizar	Taramaya hazır	Готов к сканированию	جاهز للمسح الضوئي	स्कैन के लिए तैयार	准备扫描
+This scanner does not offer the selected paper source.	Ce scanner ne propose pas la source papier sélectionnée.	Este escáner no ofrece el origen de papel seleccionado.	Este scanner não disponibiliza a origem de papel selecionada.	Bu tarayıcı seçili kâğıt kaynağını sunmuyor.	Этот сканер не поддерживает выбранный источник бумаги.	هذا الماسح لا يوفر مصدر الورق المحدد.	यह स्कैनर चयनित काग़ज़ स्रोत उपलब्ध नहीं कराता।	此扫描仪不提供所选纸张来源。
+Next flatbed page	Page suivante sur la vitre	Siguiente página de cama plana	Próxima página da mesa	Sonraki düz yatak sayfası	Следующая страница с планшета	الصفحة التالية على الماسح المسطح	अगला फ़्लैटबेड पृष्ठ	下一张平板原稿
+Place the next page on the flatbed, then choose Scan next page.	Placez la page suivante sur la vitre, puis choisissez Numériser la page suivante.	Coloque la siguiente página en la cama plana y elija Escanear página siguiente.	Coloque a próxima página na mesa e escolha Digitalizar próxima página.	Sonraki sayfayı düz yatağa yerleştirin ve Sonraki sayfayı tara seçeneğini seçin.	Положите следующую страницу на планшет и нажмите «Сканировать следующую».	ضع الصفحة التالية على الماسح المسطح، ثم اختر مسح الصفحة التالية.	अगला पृष्ठ फ़्लैटबेड पर रखें, फिर अगला पृष्ठ स्कैन करें चुनें।	将下一张原稿放在平板上，然后选择“扫描下一页”。
+Finish document	Terminer le document	Finalizar documento	Concluir documento	Belgeyi tamamla	Завершить документ	إنهاء المستند	दस्तावेज़ पूरा करें	完成文档
+Scan next page	Numériser la page suivante	Escanear página siguiente	Digitalizar próxima página	Sonraki sayfayı tara	Сканировать следующую	مسح الصفحة التالية	अगला पृष्ठ स्कैन करें	扫描下一页
+Install languages	Installer des langues	Instalar idiomas	Instalar idiomas	Dil yükle	Установить языки	تثبيت اللغات	भाषाएँ स्थापित करें	安装语言
+GitHub base address	Adresse de base GitHub	Dirección base de GitHub	Endereço base do GitHub	GitHub temel adresi	Базовый адрес GitHub	عنوان GitHub الأساسي	GitHub का आधार पता	GitHub 基础地址
+Additional languages include offline help.	Les langues supplémentaires incluent l’aide hors ligne.	Los idiomas adicionales incluyen ayuda sin conexión.	Os idiomas adicionais incluem ajuda offline.	Ek diller çevrimdışı yardım içerir.	Дополнительные языки включают автономную справку.	تتضمن اللغات الإضافية مساعدة دون اتصال.	अतिरिक्त भाषाओं में ऑफ़लाइन सहायता शामिल है।	附加语言包含离线帮助。
+Language installed. Choose Save to apply.	Langue installée. Choisissez Enregistrer pour l’appliquer.	Idioma instalado. Elija Guardar para aplicarlo.	Idioma instalado. Escolha Guardar para aplicar.	Dil yüklendi. Uygulamak için Kaydet'i seçin.	Язык установлен. Нажмите «Сохранить», чтобы применить.	تم تثبيت اللغة. اختر حفظ لتطبيقها.	भाषा स्थापित हो गई। लागू करने के लिए सहेजें चुनें।	语言已安装。请选择“保存”以应用。
+Could not load language package.	Impossible de charger le paquet de langue.	No se pudo cargar el paquete de idioma.	Não foi possível carregar o pacote de idioma.	Dil paketi yüklenemedi.	Не удалось загрузить языковой пакет.	تعذر تحميل حزمة اللغة.	भाषा पैकेज लोड नहीं हो सका।	无法加载语言包。
+Import language package	Importer un paquet de langue	Importar paquete de idioma	Importar pacote de idioma	Dil paketini içe aktar	Импортировать языковой пакет	استيراد حزمة لغة	भाषा पैकेज आयात करें	导入语言包
+Choose a language to download.	Choisissez une langue à télécharger.	Elija un idioma para descargar.	Escolha um idioma para transferir.	İndirilecek dili seçin.	Выберите язык для загрузки.	اختر لغة لتنزيلها.	डाउनलोड करने के लिए भाषा चुनें।	请选择要下载的语言。
+No additional languages available.	Aucune autre langue disponible.	No hay más idiomas disponibles.	Não há mais idiomas disponíveis.	Başka dil yok.	Других доступных языков нет.	لا توجد لغات إضافية متاحة.	कोई अतिरिक्त भाषा उपलब्ध नहीं है।	没有其他可用语言。
+Load language catalog	Charger le catalogue des langues	Cargar catálogo de idiomas	Carregar catálogo de idiomas	Dil kataloğunu yükle	Загрузить каталог языков	تحميل دليل اللغات	भाषा सूची लोड करें	加载语言目录
+Available languages	Langues disponibles	Idiomas disponibles	Idiomas disponíveis	Kullanılabilir diller	Доступные языки	اللغات المتاحة	उपलब्ध भाषाएँ	可用语言
+Download language and help	Télécharger la langue et l’aide	Descargar idioma y ayuda	Transferir idioma e ajuda	Dili ve yardımı indir	Загрузить язык и справку	تنزيل اللغة والمساعدة	भाषा और सहायता डाउनलोड करें	下载语言及帮助
+Invalid language package	Paquet de langue non valide	Paquete de idioma no válido	Pacote de idioma inválido	Geçersiz dil paketi	Недопустимый языковой пакет	حزمة لغة غير صالحة	अमान्य भाषा पैकेज	无效的语言包
+Incomplete language package	Paquet de langue incomplet	Paquete de idioma incompleto	Pacote de idioma incompleto	Eksik dil paketi	Неполный языковой пакет	حزمة لغة غير مكتملة	अपूर्ण भाषा पैकेज	语言包不完整
+Language already installed	Langue déjà installée	Idioma ya instalado	Idioma já instalado	Dil zaten yüklü	Язык уже установлен	اللغة مثبتة بالفعل	भाषा पहले से स्थापित है	语言已安装
+Invalid GitHub source	Source GitHub non valide	Fuente de GitHub no válida	Origem GitHub inválida	Geçersiz GitHub kaynağı	Недопустимый источник GitHub	مصدر GitHub غير صالح	अमान्य GitHub स्रोत	无效的 GitHub 来源

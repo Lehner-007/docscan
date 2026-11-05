@@ -1,0 +1,26 @@
+{
+  "program_id": "docscan",
+  "name": "Docscan",
+  "version_file": "VERSION",
+  "framework": "GTK4",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "license": "GPL-3.0-or-later",
+  "update_source": null,
+  "language_packages": {
+    "directory": "publishing/languages",
+    "codes": [
+      "ar",
+      "es",
+      "fr",
+      "hi",
+      "pt",
+      "ru",
+      "tr",
+      "zh"
+    ],
+    "github_base": null
+  }
+}

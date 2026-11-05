@@ -1,0 +1,45 @@
+{
+  "program_id": "docscan",
+  "languages": [
+    {
+      "code": "ar",
+      "name": "العربية",
+      "sha256": "211c5b0882b7bb3d4d6dbd18a22b211e322fab8aef1cb4e9c18820184e96cbbc"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "sha256": "55499b080feeb51da735388a10b37817dfec8028047320e5a83a581eef95b733"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "sha256": "6e023302c3757becedd95db5df52a8956eff68846863e6d90bbd8ca29381de60"
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी",
+      "sha256": "41766f736aad8b19d182d126d100356bce163d2d55bbb40def508a608002deb1"
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "sha256": "2d7c76ce6463bae9fd8aa4097a9da5d6ea4424ba493f3ebb412fe9efd9891878"
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "sha256": "344052dab243b876d5b93a55cad54596dd3255b10ecd5ff974996ef35a8c1126"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "sha256": "62fc8b7f2282b00d8f383aab279413a1da112cffe87e50d40ac78f9f882c0ecf"
+    },
+    {
+      "code": "zh",
+      "name": "中文",
+      "sha256": "a7bdbcc251e75e040244995fd1afd041e76edeffe5bdeac5306617f6c23935e2"
+    }
+  ]
+}
